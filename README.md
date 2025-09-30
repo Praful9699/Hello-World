@@ -1,3 +1,3 @@
 # Hello-World
 it's my first repo
-author: praful pande
+author: praful pande(new)
